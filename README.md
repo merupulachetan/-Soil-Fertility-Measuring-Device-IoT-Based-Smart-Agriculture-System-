@@ -47,3 +47,18 @@ Soil Sensors → ESP32 → WiFi → ThingSpeak Cloud → Web Dashboard
   - matplotlib
 
 ---
+
+
+📌 **What You Must Do on Adafruit IO Website**
+
+- Login to https://io.adafruit.com
+- Go to Feeds
+- Create these feeds exactly:
+  - soil-ph
+  - soil-moisture
+  - soil-nitrogen
+  - soil-phosphorus
+  - soil-potassium
+  - soil-temperature
+- Go to Dashboards
+- Add gauges or charts for each feed
