@@ -1,0 +1,2 @@
+# -Soil-Fertility-Measuring-Device-IoT-Based-Smart-Agriculture-System-
+        Built a real-time soil monitoring system using IoT sensors and a microcontroller to analyze soil health parameters (moisture, pH, temperature, NPK). Implemented cloud-based data visualization for remote access and decision support. Focused on low-cost, scalable design to support precision farming and sustainable agriculture.
